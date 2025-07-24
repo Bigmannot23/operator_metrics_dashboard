@@ -1,0 +1,11 @@
+# Default configuration for the Operator Metrics Dashboard
+model: gpt-3.5-turbo      # default language model for any AI tasks
+temperature: 0.2          # sampling temperature controlling randomness of AI responses
+update_schedule: "daily"  # used by GitHub Actions to determine update frequency
+metrics_history_enabled: true  # write to metrics_history.json if true
+dashboard_title: "Operator Metrics Dashboard"
+
+## Notes
+# - Modify `update_schedule` if you prefer weekly or hourly updates.
+# - You can add your own keys here and read them in app.py or update_data.py.
+# - Avoid storing secrets (API keys) in this file.  Use environment variables instead.

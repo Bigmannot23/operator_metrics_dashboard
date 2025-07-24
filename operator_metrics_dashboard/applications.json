@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "company": "Acme Corp",
+    "position": "AI Automation Engineer",
+    "date_applied": "2025-06-15",
+    "dm_sent": 1,
+    "follow_up_sent": 1,
+    "status": "interview",
+    "hours_saved_by_automation": 2.5
+  },
+  {
+    "id": 2,
+    "company": "BetaTech",
+    "position": "Prompt Engineer",
+    "date_applied": "2025-06-18",
+    "dm_sent": 1,
+    "follow_up_sent": 0,
+    "status": "applied",
+    "hours_saved_by_automation": 1.0
+  },
+  {
+    "id": 3,
+    "company": "Gamma AI",
+    "position": "Automation Specialist",
+    "date_applied": "2025-06-20",
+    "dm_sent": 0,
+    "follow_up_sent": 0,
+    "status": "rejected",
+    "hours_saved_by_automation": 1.5
+  },
+  {
+    "id": 4,
+    "company": "Delta Analytics",
+    "position": "Data Engineer",
+    "date_applied": "2025-06-25",
+    "dm_sent": 1,
+    "follow_up_sent": 1,
+    "status": "interview",
+    "hours_saved_by_automation": 2.0
+  },
+  {
+    "id": 5,
+    "company": "Epsilon Systems",
+    "position": "Founding Engineer",
+    "date_applied": "2025-07-01",
+    "dm_sent": 1,
+    "follow_up_sent": 1,
+    "status": "offer",
+    "hours_saved_by_automation": 3.0
+  },
+  {
+    "id": 6,
+    "company": "Zeta Labs",
+    "position": "AI Operations Assistant",
+    "date_applied": "2025-07-05",
+    "dm_sent": 0,
+    "follow_up_sent": 0,
+    "status": "applied",
+    "hours_saved_by_automation": 1.2
+  },
+  {
+    "id": 7,
+    "company": "Eta Finance",
+    "position": "Quantitative Research Developer",
+    "date_applied": "2025-07-10",
+    "dm_sent": 1,
+    "follow_up_sent": 1,
+    "status": "interview",
+    "hours_saved_by_automation": 2.8
+  },
+  {
+    "id": 8,
+    "company": "ThetaAI",
+    "position": "AI Product Manager",
+    "date_applied": "2025-07-12",
+    "dm_sent": 0,
+    "follow_up_sent": 0,
+    "status": "rejected",
+    "hours_saved_by_automation": 1.7
+  },
+  {
+    "id": 9,
+    "company": "Iota Automation",
+    "position": "Automation Specialist",
+    "date_applied": "2025-07-15",
+    "dm_sent": 1,
+    "follow_up_sent": 0,
+    "status": "applied",
+    "hours_saved_by_automation": 1.1
+  },
+  {
+    "id": 10,
+    "company": "Kappa Innovations",
+    "position": "AI Compliance Engineer",
+    "date_applied": "2025-07-18",
+    "dm_sent": 1,
+    "follow_up_sent": 1,
+    "status": "offer",
+    "hours_saved_by_automation": 3.2
+  }
+]
