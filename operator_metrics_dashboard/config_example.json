@@ -1,0 +1,8 @@
+{
+  "date_format": "%Y-%m-%d",
+  "kpi_thresholds": {
+    "interview_conversion_rate": 0.6,
+    "offer_rate": 0.25
+  },
+  "visualize_history": true
+}

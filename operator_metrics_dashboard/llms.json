@@ -1,0 +1,28 @@
+{
+  "name": "Operator Metrics Dashboard",
+  "description": "Turn messy job-search data into actionable KPIs. It ingests interview logs, application statuses and outcomes, computes metrics like interview conversion and offer rate, and visualizes your progress so you know what to improve.",
+  "usage": [
+    "Clone this repository and install dependencies.",
+    "Place your job-search data (CSV or JSON) into the `data/` folder.",
+    "Run the provided notebook or script to ingest data and generate the dashboard.",
+    "Open the HTML output or serve it via a lightweight server to explore your metrics.",
+    "Adjust the config file to define your own KPIs or thresholds."
+  ],
+  "architecture": [
+    "Automated ingestion parses spreadsheets, CSVs or Airtable exports and normalizes them.",
+    "KPI computation calculates conversion rates, offers per application, time-to-decision and more.",
+    "Visualizations & history provide interactive plots and historical comparisons for continuous improvement.",
+    "Extensible modules allow you to add custom metrics by modifying Python notebooks or templates."
+  ],
+  "inputs": "Project-specific inputs (see usage)",
+  "outputs": "Project-specific outputs (see usage)",
+  "tags": [
+    "operator",
+    "metrics",
+    "dashboard"
+  ],
+  "links": {
+    "repository": "https://github.com/Bigmannot23/operator_metrics_dashboard",
+    "documentation": "OPERATOR_README.md"
+  }
+}
